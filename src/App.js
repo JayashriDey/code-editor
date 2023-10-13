@@ -1,4 +1,5 @@
 
+import React from 'react';
 import Home from './App';
 import DataProvider from './App';
 
