@@ -1,7 +1,7 @@
 
 import React from 'react';
-import Home from './App';
-import DataProvider from './App';
+import Home from './Home';
+import DataProvider from './DataProvider';
 
 function App() {
   return (
